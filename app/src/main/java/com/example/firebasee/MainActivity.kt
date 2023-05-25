@@ -37,6 +37,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+
     private val database = FirebaseDatabase.getInstance()
     private val databaseReference = FirebaseDatabase.getInstance().reference
 
